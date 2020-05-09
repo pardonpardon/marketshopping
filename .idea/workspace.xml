@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac760937-bb20-401a-b98e-3c25e7b9a9ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="AXF@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="AXF@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="AXF@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="axf: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="AXF" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1atx0vr5UfTokaPkisyev4YnIA4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UserAuthAndPermission" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\AXF" />
+      <recent name="E:\workspace\AXF\alipay_config" />
+      <recent name="E:\workspace\AXF\static\axf\main\js" />
+      <recent name="E:\workspace\AXF\static\js" />
+      <recent name="E:\workspace\AXF\static\axf\main\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\workspace\AXF\static\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AXF" type="Python.DjangoServer" factoryName="Django server">
+      <module name="AXF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="AXF.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.1969697" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="AXF@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="AXF@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@5698779c" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="AXF@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@1b00f974" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac760937-bb20-401a-b98e-3c25e7b9a9ff" name="Default Changelist" comment="" />
+      <created>1587568471930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587568471930</updated>
+      <workItem from="1587568474210" duration="1404000" />
+      <workItem from="1587602159879" duration="910000" />
+      <workItem from="1587603113758" duration="77000" />
+      <workItem from="1587603226409" duration="18770000" />
+      <workItem from="1587655811317" duration="1633000" />
+      <workItem from="1587690556070" duration="25836000" />
+      <workItem from="1587774387351" duration="12474000" />
+      <workItem from="1587799446046" duration="10843000" />
+      <workItem from="1587830541370" duration="1723000" />
+      <workItem from="1587860193212" duration="8180000" />
+      <workItem from="1587870023110" duration="1606000" />
+      <workItem from="1587871648970" duration="6837000" />
+      <workItem from="1587908803768" duration="6440000" />
+      <workItem from="1587915306598" duration="1068000" />
+      <workItem from="1587947931783" duration="5285000" />
+      <workItem from="1587953910889" duration="15111000" />
+      <workItem from="1587985928433" duration="3183000" />
+      <workItem from="1587999778141" duration="4742000" />
+      <workItem from="1588031311694" duration="8969000" />
+      <workItem from="1588214913840" duration="1670000" />
+      <workItem from="1588291402444" duration="49000" />
+      <workItem from="1588291464721" duration="4852000" />
+      <workItem from="1588382893061" duration="2261000" />
+      <workItem from="1588385172082" duration="2613000" />
+      <workItem from="1588463417149" duration="600000" />
+      <workItem from="1588555894357" duration="69000" />
+      <workItem from="1588569792954" duration="2562000" />
+      <workItem from="1588575171815" duration="170000" />
+      <workItem from="1588588158735" duration="74000" />
+      <workItem from="1588588312226" duration="1372000" />
+      <workItem from="1588656147448" duration="1965000" />
+      <workItem from="1588763524522" duration="109000" />
+      <workItem from="1588768863048" duration="650000" />
+      <workItem from="1588811470295" duration="7615000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="850" y="221" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587799754140">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="797" y="207" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587568969445" />
+    <state x="850" y="221" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1587799754140" />
+    <state x="1268" y="362" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588297534350">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1268" y="362" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2048.1112/-1920.-117.1920.1040@0.0.2048.1112" timestamp="1588297534350" />
+    <state x="1285" y="303" key="FileChooserDialogImpl" timestamp="1588836676125">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1285" y="303" key="FileChooserDialogImpl/0.0.2048.1112/-1920.-117.1920.1040@0.0.2048.1112" timestamp="1588836676125" />
+    <state x="1285" y="303" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1587948276049" />
+    <state width="719" height="290" key="GridCell.Tab.0.bottom" timestamp="1587721350810">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="719" height="290" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587721350810" />
+    <state width="719" height="290" key="GridCell.Tab.0.center" timestamp="1587721350810">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="719" height="290" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587721350810" />
+    <state width="719" height="290" key="GridCell.Tab.0.left" timestamp="1587721350810">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="719" height="290" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587721350810" />
+    <state width="719" height="290" key="GridCell.Tab.0.right" timestamp="1587721350810">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="719" height="290" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587721350810" />
+    <state x="771" y="175" key="SettingsEditor" timestamp="1587603177630">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="771" y="175" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587603177630" />
+    <state x="998" y="302" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1587610608896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="998" y="302" key="com.intellij.database.run.ParametersPanel.Standalone/0.0.1920.1040@0.0.1920.1040" timestamp="1587610608896" />
+    <state x="604" y="159" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1587695813940">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="604" y="159" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587695813940" />
+    <state x="184" y="166" width="764" height="756" key="dock-window-1" timestamp="1587955210956">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="184" y="166" width="764" height="756" key="dock-window-1/0.0.2048.1112/-1920.-117.1920.1040@0.0.2048.1112" timestamp="1587955210956" />
+    <state x="184" y="166" width="764" height="756" key="dock-window-2" timestamp="1587955210956">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="184" y="166" width="764" height="756" key="dock-window-2/0.0.2048.1112/-1920.-117.1920.1040@0.0.2048.1112" timestamp="1587955210956" />
+    <state x="1157" y="250" width="717" height="725" key="search.everywhere.popup" timestamp="1588820086431">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1084" y="234" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587744971732" />
+    <state x="1157" y="250" width="717" height="725" key="search.everywhere.popup/0.0.2048.1112/-1920.-117.1920.1040@0.0.2048.1112" timestamp="1588820086431" />
+    <state x="1157" y="250" width="717" height="725" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1587911077502" />
+  </component>
+</project>
